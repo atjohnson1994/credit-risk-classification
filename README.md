@@ -1,7 +1,7 @@
 # Overview
 - This analysis measures the accuracy of a supervised machine learning model in determining if a loan will be high-risk or not.
 
-# List
+# Report
 - Accuracy: 0.99
 - Recall: 0.95
 - Precision: 0.92
